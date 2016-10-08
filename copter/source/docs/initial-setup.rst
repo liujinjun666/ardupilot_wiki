@@ -23,7 +23,7 @@ within the sections) see the topics below:
     安装 Mission Planner <common-install-mission-planner>
     部件 <assembly-instructions>
     加载固件 <common-loading-firmware-onto-pixhawk>
-    飞控和Mission Planner地面站连接  <common-connect-mission-planner-autopilot>
+    连接 Mission Planner 到飞控 <common-connect-mission-planner-autopilot>
     配置硬件 <configuring-hardware>
     
     
